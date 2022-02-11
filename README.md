@@ -1,7 +1,7 @@
 # Android-Projects
 
 * ## Project 1
-## Description
+** ## Description
 This app consists of three buttons. The buttons are sneeze, blow nose, and take
 medication. The initial health is set at 10. The sneeze button reduces the health by 1, take
 medication increments by 2, and blow nose plays a sound. The range of the health is kept
