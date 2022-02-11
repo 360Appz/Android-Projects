@@ -1,6 +1,6 @@
 # Android-Projects
 
-## Project 1
+* ## Project 1
 ## Description
 This app consists of three buttons. The buttons are sneeze, blow nose, and take
 medication. The initial health is set at 10. The sneeze button reduces the health by 1, take
@@ -13,7 +13,7 @@ sound.
   ![](https://github.com/360Appz/Android-Projects/blob/main/Project%201/assets/P1.PNG){ padding-top:10px }
 
 
-## Project 2
+* ## Project 2
 ## Description
 This app is based on two activities to interact with the application. On launch, the user will
 be greeted with four different food and some of their details. When the user clicks on any
