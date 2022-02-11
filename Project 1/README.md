@@ -11,14 +11,3 @@ sound.
 ## Screenshots
   ![](https://github.com/360Appz/Android-Projects/blob/main/Project%201/assets/P1.PNG){ padding-top:10px }
  
-&nbsp;
-
-
-
-
-
-
-
-
-
-Code snippets and explanation can be found in the report
